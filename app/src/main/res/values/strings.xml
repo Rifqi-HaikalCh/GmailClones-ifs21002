@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">GmailClone</string>
+    <string name="info_email_icon">Ikon Gmail</string>
+    <string name="info_email_name">Nama email</string>
+    <string name="info_email_sub">Sub judul</string>
+    <string name="info_email_desc">Sub judul kecil</string>
+    <string name="myname">Rifqi Haikal Chairiansyah</string>
+    <string name="myemail">r.haikal1610@gmail.com</string>
+    <string name="telusuri_dalam_email">Telusuri dalam email</string>
+
+    <string-array name="email_name">
+        <item>Duolingo English Test</item>
+        <item>Linkedin</item>
+        <item>Instagram</item>
+        <item>Saya</item>
+        <item>Spotify</item>
+        <item>Github</item>
+        <item>Facebook</item>
+        <item>Cewek</item>
+        <item>Spotify</item>
+        <item>Duolingo English Test</item>
+        <item>Github</item>
+        <item>Instagram</item>
+    </string-array>
+
+    <string-array name="email_icon">
+        <item>@drawable/duoli</item>
+        <item>@drawable/linked</item>
+        <item>@drawable/insta</item>
+        <item>@drawable/profile</item>
+        <item>@drawable/spoti</item>
+        <item>@drawable/git</item>
+        <item>@drawable/fb</item>
+        <item>@drawable/orang</item>
+        <item>@drawable/spoti</item>
+        <item>@drawable/duoli</item>
+        <item>@drawable/git</item>
+        <item>@drawable/insta</item>
+    </string-array>
+
+    <string-array name="email_sub">
+        <item>Webinar: Explore Your Future in Boston</item>
+        <item>Rifqi, Sedang mencari pekerjaan baru?</item>
+        <item>Orang yang mungkin anda kenal</item>
+        <item>Intern Application : UI/UX</item>
+        <item>Nikmati ramadan dengan premium</item>
+        <item>Your Password was reset</item>
+        <item>Orang yang mungkin anda kenal</item>
+        <item>Selamat, kamu telah mendapatkan</item>
+        <item>Paket premium anda telah habis</item>
+        <item>Rifqi, ada waktu buat login?</item>
+        <item>Someone looking your page</item>
+        <item>Orang yang mungkin anda kenal</item>
+    </string-array>
+
+    <string-array name="email_desc">
+        <item>Hi Rifqi, Thank you for using this app</item>
+        <item>Hi Rifqi, Thank you for using this app</item>
+        <item>Hi Rifqi, Thank you for using this app</item>
+        <item>Hi Rifqi, Thank you for using this app</item>
+        <item>Hi Rifqi, Thank you for using this app</item>
+        <item>Hi Rifqi, Thank you for using this app</item>
+        <item>Hi Rifqi, Thank you for using this app</item>
+        <item>Hi Rifqi, Thank you for using this app</item>
+        <item>Hi Rifqi, Thank you for using this app</item>
+        <item>Hi Rifqi, Thank you for using this app</item>
+        <item>Hi Rifqi, Thank you for using this app</item>
+        <item>Hi Rifqi, Thank you for using this app</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
